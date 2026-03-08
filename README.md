@@ -1,0 +1,2 @@
+# safe
+safe code
